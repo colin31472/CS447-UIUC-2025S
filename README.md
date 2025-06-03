@@ -1,4 +1,4 @@
-# CS 447: Natural Language Processing (2025 Spring)
+# CS 447: Natural Language Processing (Spring 2025)
 
 This repository contains my implementations for homework assignments from CS 447 (Spring 2025), focused on core NLP techniques using machine learning.
 
